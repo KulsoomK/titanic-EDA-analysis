@@ -21,7 +21,7 @@ This project analyzes the Titanic dataset to uncover patterns related to passeng
 - **Data Cleaning:** Handled missing values in `Age`, `Embarked`, and dropped `Cabin`.
 - **Passenger Demographics:** Gender distribution, age spread, family status.
 - **Survival Insights:** Survival rates by gender, class, age, and fare.
-- **Feature Correlation:** Heatmap and correlation coefficients.
+- **Feature Correlation:** Correlation coefficients.
 
 ## 🚀 How to Run
 
